@@ -1,0 +1,10 @@
+Initialisation Instructions
+
+1. run: 
+* server4.py 
+
+on the pi run: 
+* python3 client.py & python3 web.py
+
+In the anaconda env run:
+* python final.py --source http://192.168.1.10:8000/stream.mjpg
