@@ -1,12 +1,11 @@
 Initialisation Instructions
 
+*disable the firewall on windows!* 
 1. run: 
 * server4.py 
 
-on the pi run: 
+2. On the pi run: 
 * python3 client.py & python3 web.py
 
-In the anaconda env run:
+3. In the anaconda env in yolo run:
 * python final.py --source http://192.168.1.10:8000/stream.mjpg
-
-I'm making an example change to the text file. Delete me later
